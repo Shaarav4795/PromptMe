@@ -98,7 +98,7 @@ export function CashbackBrandsSection(): ReactElement {
                 </div>
                 <div className="pm-cta-narrow" data-aos="fade-up" data-aos-anchor="[data-aos-id-4]" data-aos-delay="300">
                   <div>
-                    <a className="c-cta-btn-primary pm-cta-with-arrow" href="https://github.com/shaarav4795/promptme">
+                    <a className="c-cta-btn-primary pm-cta-with-arrow" href="https://github.com/Shaarav4795/PromptMe/releases/download/1.0/PromptMe.1.0.dmg">
                       Download now
                       <span className="pm-cta-arrow pm-cta-arrow--sky">
                         <ArrowIcon />

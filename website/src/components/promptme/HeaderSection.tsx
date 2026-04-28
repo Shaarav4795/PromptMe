@@ -16,7 +16,7 @@ export function HeaderSection(): ReactElement {
           <nav className="pm-header-nav">
             <ul className="pm-header-nav-list">
               <li className="pm-header-nav-item">
-                <a className="c-cta-btn-dark pm-cta-with-arrow" href="https://github.com/shaarav4795/promptme">
+                <a className="c-cta-btn-dark pm-cta-with-arrow" href="https://github.com/Shaarav4795/PromptMe/releases/download/1.0/PromptMe.1.0.dmg">
                   Download now
                   <span className="pm-cta-arrow pm-cta-arrow--cyan">
                     <ArrowIcon />
