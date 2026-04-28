@@ -1,0 +1,181 @@
+# Xcode & iOS Development
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+build/
+.build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.DS_Store
+._*
+.LSOverride
+*.app
+*.swiftmodule
+
+# Swift Package Manager
+Packages/
+.build/
+*.xcframework
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+Cartfile.resolved
+
+# Build directories
+dist/
+.SwiftPM/
+
+# Xcode specific
+*.xcarchive
+*.xcodeproj/**/xcshareddata/WorkspaceSettings.xcsettings
+
+# ============================================
+# Node.js / NPM / Yarn / PNPM
+# ============================================
+
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+.next/
+
+# Production
+/build
+dist/
+
+# Misc
+*.pem
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# ============================================
+# IDE & Editor
+# ============================================
+
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.history/
+.ionide
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.TemporaryItems
+.fseventsd
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+.directory
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.~*
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# ============================================
+# Logs
+# ============================================
+
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# ============================================
+# Runtime data
+# ============================================
+
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ============================================
+# Misc files
+# ============================================
+
+.cache/
+*.cer
+*.key
+*.pfx
+.ssl/
+.env.*.local
+.env.*.example

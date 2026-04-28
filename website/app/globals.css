@@ -1,0 +1,17 @@
+@import "./promptme/vendors/aos.css";
+@import "./promptme/style.css";
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  overflow-x: clip;
+}
+
+#promptme-root {
+  min-height: 100%;
+}

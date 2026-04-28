@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="arrow-cta" viewBox="0 0 12 10">
+    <path d="M1 6.002h7.586L6.293 8.295a1 1 0 1 0 1.414 1.414l4-4a1 1 0 0 0 0-1.416l-4-4a1 1 0 0 0-1.414 1.416l2.293 2.293H1a1 1 0 1 0 0 2Z" fill="currentColor"/>
+  </symbol>
+  <symbol id="check-mark" viewBox="0 0 12 12">
+    <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" fill="currentColor"/>
+  </symbol>
+  <symbol id="list-check-circle" viewBox="0 0 20 20">
+    <circle cx="10" cy="10" r="10" fill="#DBEAFE"/>
+  </symbol>
+  <symbol id="list-check-tick" viewBox="0 0 20 20">
+    <path d="M15.335 7.933 14.87 7c-4.025 1.167-6.067 3.733-6.067 3.733l-1.867-1.4-.933.934L8.802 14c2.158-4.025 6.533-6.067 6.533-6.067Z" fill="#3B82F6"/>
+  </symbol>
+</svg>
